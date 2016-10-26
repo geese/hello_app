@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 # Ruby on Rails Tutorial
 
@@ -32,3 +33,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+
+>>>>>>> fc85f105d9aaa355cf3c16006033266cd44161b6
